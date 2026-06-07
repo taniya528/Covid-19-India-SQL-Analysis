@@ -4,7 +4,9 @@ This project performs a structured SQL-based analysis of COVID-19 spread and vac
 
 ## Datasets
 [SQL Project](https://github.com/taniya528/Covid-19-India-SQL-Analysis/blob/main/Covid%2019%20SQL%20analysis%20project.sql)
+
 [Download CSV Files](https://github.com/taniya528/Covid-19-India-SQL-Analysis/blob/main/Latest%20Covid-19%20India%20Status.csv)
+
 [Download CSV File2](https://github.com/taniya528/Covid-19-India-SQL-Analysis/blob/main/COVID-19%20India%20Statewise%20Vaccine%20Data.csv)
 
 ## 🛠️ Tools & Technologies
@@ -36,7 +38,9 @@ Excel/CSV   - Raw data source and preprocessing
 ## Taniya Sahu
 
 📧 taniyasahu528ks@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/taniya-sahu-abc1610155/)
+
 💻 [GitHub](https://github.com/taniya528)
 
 ## 📌 Skills Demonstrated
